@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(choco --version)",
+      "Bash(choco install:*)",
+      "Bash(make:*)",
+      "Bash(python:*)",
+      "Bash(go fmt:*)",
+      "Bash(go build:*)",
+      "Bash(./hello_world.exe)"
+    ]
+  }
+}
