@@ -1,7 +1,6 @@
 **# 🐹 go-playgorund
 
 Learning Go with **"Learning Go" by Jon Bodner (O'Reilly)** — notes, chapter exercises, and projects along the way.
-
 ---
 
 ## 🧠 Go Mind Map
